@@ -1,11 +1,12 @@
 # GAP
 
-Collection of GAP programs inspired by tutorials from 
-https://www.gap-system.org/
+## What is this?
 
-# Usage
+Collection of GAP programs inspired by tutorials from
+[GAP System](https://www.gap-system.org/)
+
+## Usage
+
 You can run code samples with the command
 
 $ gap -b --norepl Example.g
-
-
